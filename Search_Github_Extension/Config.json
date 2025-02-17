@@ -1,0 +1,11 @@
+{
+  "name": "Search Github",
+  "icon": "Icon.png",
+  "actions": [
+    {
+      "title": "Github",
+      "type": "url",
+      "url": "https://github.com/search?q={popclip text}&type=repositories"
+    }
+  ]
+}
