@@ -12,7 +12,7 @@
 
 ## 安装
 
-1. 下载 [Search_Github_Extension.popclipextz](https://github.com/Wooden-Robot/Search_Z-lib_PopClip/releases/download/v0.01/Search_Github_Extension.popclipextz) 文件。
+1. 下载 [Search_Github_Extension.popclipextz](https://github.com/Wooden-Robot/Search-Github-PopClip/releases/download/v0.0.1/Search_Github_Extension.popclipextz) 文件。
 2. 双击文件，安装该插件到 PopClip。
 3. 安装完成后，您可以在任何应用中选中文本，点击 PopClip 菜单中的 `Github` 按钮进行搜索。
 

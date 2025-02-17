@@ -12,7 +12,7 @@ This is a simple PopClip extension that allows you to directly search Github on 
 
 ## Installation  
 
-1. Download the [Search_Github_Extension.popclipextz](https://github.com/Wooden-Robot/Search_Z-lib_PopClip/releases/download/v0.01/Search_Github_Extension.popclipextz) file.  
+1. Download the [Search_Github_Extension.popclipextz](https://github.com/Wooden-Robot/Search-Github-PopClip/releases/download/v0.0.1/Search_Github_Extension.popclipextz) file.  
 2. Double-click the file to install the extension into PopClip.  
 3. After installation, you can select text in any application and click the `Github` button in the PopClip menu to perform a search.  
 
